@@ -17,10 +17,10 @@
 
 <br>
 
-- Um apaixonado por tecnologia Front-end  e Back-end 
-- Gosto de assistir filmes e series no tempo livre alem de esportes, como Futebol e Basquete(Americano)
-- Atualmente Bacharel em Sistemas de Informação, estou matriculado no Bootcamp Full Stack Developer da Growdev.
-- Em transição de carreira estou aberto a oportunidades na area de tecnologia com olhar especial em desenvolvimento de software.
+- **Um apaixonado por tecnologia Front-end  e Back-end**: 
+- **Gosto de assistir filmes e series no tempo livre alem de esportes, como Futebol e Basquete(Americano)**:
+- **Atualmente Bacharel em Sistemas de Informação, estou matriculado no Bootcamp Full Stack Developer da Growdev.**:
+- **Em transição de carreira estou aberto a oportunidades na area de tecnologia com olhar especial em desenvolvimento de software.**:
 		
 <br><br>
 
@@ -33,7 +33,7 @@
 
 - **Linguagens**:
 	<br>
-	<li>Programação Orientada a Objeto</li>
+ - **Programação Orientada a Objeto**:
 	
 	[![java](https://cdn3.emoji.gg/emojis/java.png)](https://emoji.gg/emoji/java)
 	[![CSharp](https://cdn3.emoji.gg/emojis/7106-csharp.png)](https://emoji.gg/emoji/7106-csharp)
