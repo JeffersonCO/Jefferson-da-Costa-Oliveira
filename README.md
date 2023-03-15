@@ -17,11 +17,11 @@
 
 <br>
 
-- Um apaixonado por tecnologia Front-end Back-end
+- Um apaixonado por tecnologia Front-end  e Back-end 
 - Gosto de assistir filmes e series no tempo livre alem de esportes, como Futebol e Basquete(Americano)
 - Atualmente Bacharel em Sistemas de Informação, estou matriculado no Bootcamp Full Stack Developer da Growdev.
 - Em transição de carreira estou aberto a oportunidades na area de tecnologia com olhar especial em desenvolvimento de software.
-
+		
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -32,8 +32,11 @@
 <p align="center">
 
 - **Linguagens**:
+	<br>
+	<li>Programação Orientada a Objeto</li>
 	
-	-Java <br>![-](https://icons.iconarchive.com/icons/papirus-team/papirus-mimetypes/48/text-x-java-icon.png)                                                     	       -C# <br>![-](https://cdnlogo.com/logo/c_36494.html])
+	[![java](https://cdn3.emoji.gg/emojis/java.png)](https://emoji.gg/emoji/java)
+	[![CSharp](https://cdn3.emoji.gg/emojis/7106-csharp.png)](https://emoji.gg/emoji/7106-csharp)
 	
 	
 <br>   
@@ -64,19 +67,6 @@
 <br>
 
 -----
-
-<br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<br>
-<br>
-<br>
-
------
-
 <br>
 <br>
 
@@ -106,11 +96,22 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
+    "
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
+    "
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 ---
